@@ -1,0 +1,8 @@
+"MagickaMax": {
+    "baseAddress": "3958748",
+    "pointers": [ "708", "1504" ]
+  },
+"MagickaCurrent": {
+	"baseAddress": "3958748",
+    "pointers": [ "712", "1504" ]
+  },
